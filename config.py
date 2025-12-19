@@ -1,4 +1,5 @@
 
-BOT_TOKEN = '7527590941:AAHKCtjPyqmAopSjtP43o44JX6mdeSnRyRY' #Токент бота
-ADMIN_ID = 1264737396 #Айди акаунта 1768059976    1264737396
-CHANNEL_ID = -1002238519430 #Айди канала
+BOT_TOKEN = '' #Токент бота
+ADMIN_ID =  #Айди акаунта
+
+CHANNEL_ID =  #Айди канала
